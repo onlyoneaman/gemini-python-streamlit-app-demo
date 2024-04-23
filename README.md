@@ -8,6 +8,14 @@ Simple Chatbot using gemini, python and streamlit
 source venv/bin/activate
 ```
 
+### Add environment variables
+
+Copy the `.env.example` file to `.env` and add the required environment variables.
+
+```bash
+cp .env.example .env
+```
+
 ### Installation
 
 ```bash
