@@ -2,6 +2,8 @@
 
 Simple Chatbot using gemini, python and streamlit
 
+You can find the tutorial [here](https://onlyoneaman.medium.com/building-a-chatbot-with-free-gemini-pro-api-87419a076c30).
+
 ### Start Virtual Environment
 
 ```bash
